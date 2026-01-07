@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "laptop Dell",
+        "price": 2633.99,
+        "stock": 2
+    },
+    {
+        "id": 2,
+        "name": "asus gaming",
+        "price": 522.9,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "name": "audifonos",
+        "price": 684.0,
+        "stock": 2
+    },
+    {
+        "id": 4,
+        "name": "iphone",
+        "price": 452.0,
+        "stock": 2
+    }
+]
